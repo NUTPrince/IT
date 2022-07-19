@@ -1,0 +1,103 @@
+{
+  "strategy": "english-only",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "GitHub": {
+      "GitHub": {
+        "currentFile": {
+          "count": 10,
+          "lastUpdated": 1658221588857
+        }
+      }
+    },
+    "email": {
+      "email": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1658214012090
+        }
+      }
+    },
+    "shell": {
+      "shell": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1658216333311
+        }
+      }
+    },
+    "windows": {
+      "windows": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1658217792702
+        }
+      }
+    },
+    "commit": {
+      "commit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1658218686972
+        }
+      }
+    },
+    "Ssh-keygen": {
+      "Ssh-keygen": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1658219891586
+        }
+      }
+    },
+    "clone": {
+      "clone": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1658221907524
+        }
+      }
+    }
+  }
+}

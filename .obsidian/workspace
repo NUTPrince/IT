@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "b74b0486b7e96051",
+    "type": "split",
+    "children": [
+      {
+        "id": "edd158710523627f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Git/01.Git 简介.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7da7b511ad61312a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e875de77a9582b3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac550d79d774d2a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "882edbbcd687cd7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87af1791d5298ff4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "bdb5f14a4e4e813d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "11d78902a1cf085e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af37ea6ae234152f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/01.Git 简介.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b96384130d06206",
+    "type": "split",
+    "children": [
+      {
+        "id": "70cb905c3cb901a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "095ef59583f699e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d2f8a07ebacc7b7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb1e49d8768c9fbd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "91dcb8b1fea62dbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09307c12a5b16271",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "edd158710523627f",
+  "lastOpenFiles": [
+    "Git/01.Git 简介.md",
+    "Git/附录/Homebrew.md",
+    "linux/01 简介.md",
+    "Git/未命名.md",
+    "未命名.md",
+    "linux/03 用户及文件权限管理.md",
+    "Excalidraw/Drawing 2022-07-19 12.56.03.excalidraw.md",
+    "linux/附录/硬链接，软链接，inode.md",
+    "01 简介.md",
+    "03 用户及文件权限管理.md"
+  ]
+}
