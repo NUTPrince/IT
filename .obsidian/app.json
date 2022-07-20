@@ -3,7 +3,7 @@
   "livePreview": true,
   "promptDelete": false,
   "fileSortOrder": "alphabetical",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "Git/附录",
   "communityPluginSortOrder": "download",
   "trashOption": "local",
   "alwaysUpdateLinks": true,

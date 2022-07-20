@@ -44,5 +44,7 @@
   "wikilinks-to-mdlinks-obsidian",
   "obsidian-youglish-plugin",
   "various-complements",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-pandoc",
+  "obsidian-git"
 ]
