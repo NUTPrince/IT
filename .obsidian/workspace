@@ -7,12 +7,9 @@
         "id": "03e462cdec019f5f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Git/03. Git 分支管理.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "Excalidraw/Drawing 2022-07-21 16.08.03.excalidraw.md"
           }
         }
       }
@@ -78,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/03. Git 分支管理.md"
+                "file": "Excalidraw/Drawing 2022-07-21 16.08.03.excalidraw.md"
               }
             }
           }
@@ -147,8 +144,8 @@
   },
   "active": "03e462cdec019f5f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-07-21 16.08.03.excalidraw.md",
     "Git/03. Git 分支管理.md",
+    "Excalidraw/Drawing 2022-07-21 16.08.03.excalidraw.md",
     "Excalidraw/Drawing 2022-07-20 14.08.00.excalidraw 1.md",
     "Git/图片/g-9.png",
     "未命名.md",
