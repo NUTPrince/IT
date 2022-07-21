@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "03e462cdec019f5f",
+        "id": "5237ddfc204262d2",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-07-21 16.08.03.excalidraw.md"
+            "file": "Git/03. Git 分支管理.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -75,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-07-21 16.08.03.excalidraw.md"
+                "file": "Git/03. Git 分支管理.md"
               }
             }
           }
@@ -142,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03e462cdec019f5f",
+  "active": "5237ddfc204262d2",
   "lastOpenFiles": [
-    "Git/03. Git 分支管理.md",
     "Excalidraw/Drawing 2022-07-21 16.08.03.excalidraw.md",
+    "Git/03. Git 分支管理.md",
+    "Git/图片/g-14.png",
+    "Git/图片/g-13.png",
     "Excalidraw/Drawing 2022-07-20 14.08.00.excalidraw 1.md",
     "Git/图片/g-9.png",
     "未命名.md",
     "Git/02.Git 基础操作.md",
     "Git/图片/g-6.png",
-    "Git/附录/Git 命令 快捷查询.md",
-    "Excalidraw/Drawing 2022-07-20 14.08.00.excalidraw.md",
-    "Git/图片/g-5.png"
+    "Git/附录/Git 命令 快捷查询.md"
   ]
 }
