@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/02.Git 基础操作.md",
+            "file": "Git/03. Git 分支管理.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/02.Git 基础操作.md"
+                "file": "Git/03. Git 分支管理.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "5aa6dd09bc0fbeb0",
   "lastOpenFiles": [
-    "Git/图片/g-6.png",
     "Git/02.Git 基础操作.md",
+    "Git/图片/g-6.png",
     "Git/附录/Git 命令 快捷查询.md",
     "Excalidraw/Drawing 2022-07-20 14.08.00.excalidraw 1.md",
     "Excalidraw/Drawing 2022-07-20 14.08.00.excalidraw.md",
