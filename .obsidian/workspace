@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux/03 用户及文件权限管理.md",
+            "file": "linux/02 基本概念.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/03 用户及文件权限管理.md"
+                "file": "linux/02 基本概念.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "0822a423eb72c6fb",
   "lastOpenFiles": [
+    "linux/01 简介.md",
+    "linux/02 基本概念.md",
+    "linux/03 用户及文件权限管理.md",
     "README.md",
     "Git/04. Git 多人协作.md",
     "Git/03. Git 分支管理.md",
     "Excalidraw/Drawing 2022-07-21 16.08.03.excalidraw.md",
     "Git/图片/g-14.png",
     "Git/图片/g-13.png",
-    "Excalidraw/Drawing 2022-07-20 14.08.00.excalidraw 1.md",
-    "Git/图片/g-9.png",
-    "Git/02.Git 基础操作.md",
-    "Git/图片/g-6.png"
+    "Excalidraw/Drawing 2022-07-20 14.08.00.excalidraw 1.md"
   ]
 }
