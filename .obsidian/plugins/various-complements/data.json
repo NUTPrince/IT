@@ -62,8 +62,8 @@
     "shell": {
       "shell": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1658299718542
+          "count": 5,
+          "lastUpdated": 1658808979562
         }
       }
     },
@@ -136,6 +136,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1658754915800
+        }
+      }
+    },
+    "hello": {
+      "hello": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1658809948707
         }
       }
     }
