@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux/03 用户及文件权限管理.md",
+            "file": "linux/04 目录结构及文件操作.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/03 用户及文件权限管理.md"
+                "file": "linux/04 目录结构及文件操作.md"
               }
             }
           }
@@ -145,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0822a423eb72c6fb",
+  "active": "ac550d79d774d2a1",
   "lastOpenFiles": [
-    "README.md",
     "linux/03 用户及文件权限管理.md",
+    "linux/04 目录结构及文件操作.md",
+    "README.md",
     "linux/02 基本概念.md",
     "linux/01 简介.md",
     "linux/附录/硬链接，软链接，inode.md",
     "Git/04. Git 多人协作.md",
     "Git/03. Git 分支管理.md",
     "Excalidraw/Drawing 2022-07-21 16.08.03.excalidraw.md",
-    "Git/图片/g-14.png",
-    "Git/图片/g-13.png"
+    "Git/图片/g-14.png"
   ]
 }
