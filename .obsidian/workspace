@@ -9,6 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "linux/附录/linux less 详解.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0f4725827345e0b2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "linux/03 目录及文件操作.md",
             "mode": "source",
             "backlinks": false,
@@ -78,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/03 目录及文件操作.md"
+                "file": "linux/附录/linux less 详解.md"
               }
             }
           }
@@ -147,15 +160,15 @@
   },
   "active": "0822a423eb72c6fb",
   "lastOpenFiles": [
-    "linux/04 用户及文件权限管理.md",
     "linux/03 目录及文件操作.md",
+    "linux/附录/linux less 详解.md",
+    "linux less 用法举例.md",
+    "linux/04 用户及文件权限管理.md",
     "linux/02 基本概念.md",
     "linux/00 图片/s-3.png",
     "README.md",
     "linux/01 简介.md",
     "linux/附录/硬链接，软链接，inode.md",
-    "Git/04. Git 多人协作.md",
-    "Git/03. Git 分支管理.md",
-    "Excalidraw/Drawing 2022-07-21 16.08.03.excalidraw.md"
+    "Git/04. Git 多人协作.md"
   ]
 }
