@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vim/Vim 简介.md",
+            "file": "Vim/Vim 入门.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim/Vim 简介.md"
+                "file": "Vim/Vim 入门.md"
               }
             }
           }
