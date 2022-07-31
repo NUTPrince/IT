@@ -160,7 +160,7 @@ hello world![] # 光标显示当前所在位置，当前可编辑
 
 >在普通模式下，可使用以下按键实现游标移动
 
-### 基础
+### 基础导航
 
 | **编号** | **命令** | **描述**          |
 |:---:|:---:|:-----------:|
@@ -175,7 +175,7 @@ hello world![] # 光标显示当前所在位置，当前可编辑
 10j
 ```
 
-### 进阶
+### 进阶导航
 
 | **编号** | **命令**        | **描述**           |
 |:---:|:---------:|:------------|
@@ -452,5 +452,182 @@ Ctrl + r
 
 ### 多文件
 
-假设正在编辑文件，并且想要在同一个Vim会话中打开另一个文件。在这种情况下，可以使用Vim的编辑命令。
+>假设正在编辑文件，并且想要在同一个Vim会话中打开另一个文件。在这种情况下，可以使用Vim的编辑命令。
+
+<table>
+    <tr>
+        <td>编号</td>
+        <td>命令</td>
+        <td>描述</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>:e</td>
+        <td>在缓冲区中加载新文件以进行编辑</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>:edit</td>
+        <td>与:e功能相同</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>:e &lt;tab&gt;</td>
+        <td>列出要从当前目录编辑的文件</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>:edit &lt;tab&gt;</td>
+        <td>与:e &lt;tab&gt;功能相同</td>
+    </tr>
+</table>
+
+-   命令行模式下输入`:e 3.txt` 打开新文件 3.txt
+```vim
+:e 3.txt
+```
+
+-   命令行模式下输入`:e#` 回到前一个文件
+```vim
+:e#
+```
+
+-   命令行模式下输入`:ls`可以列出以前编辑过的文档
+```vim
+:ls
+```
+
+### 多缓冲区
+
+>Vim支持多个缓冲区
+
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th>命令</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><code>:badd &lt;file&gt;</code></td>
+<td>将文件添加到新缓冲区</td>
+</tr>
+<tr>
+<td>2</td>
+<td><code>:bN</code></td>
+<td>切换到第<code>N</code>个缓冲区。 例如，切换到第<code>3</code>缓冲区使用<code>:b3</code></td>
+</tr>
+<tr>
+<td>3</td>
+<td><code>:bnext</code></td>
+<td>移动到缓冲区列表中的下一个缓冲区</td>
+</tr>
+<tr>
+<td>4</td>
+<td><code>:bprevious</code></td>
+<td>移动到缓冲区列表中的上一个缓冲区</td>
+</tr>
+<tr>
+<td>5</td>
+<td><code>:buffers</code></td>
+<td>列出所有缓冲区</td>
+</tr>
+<tr>
+<td>6</td>
+<td><code>:bfirst</code></td>
+<td>移动到第一个缓冲区</td>
+</tr>
+<tr>
+<td>7</td>
+<td><code>:blast</code></td>
+<td>移动到最后一个缓冲区</td>
+</tr>
+<tr>
+<td>8</td>
+<td><code>:ball</code></td>
+<td>加载所有缓冲区</td>
+</tr>
+</tbody>
+</table>
+
+-   命令行模式下输入`:b 2.txt`（或者编号）可以直接进入文件 2.txt 编辑
+```vim
+:b 2.txt
+```
+
+-   命令行模式下输入`:bd 2.txt`（或者编号）可以删除以前编辑过的列表中的文件项目
+```vim
+:bd 2.txt
+```
+
+-   命令行模式下输入`:e! 4.txt`，新打开文件 4.txt，放弃正在编辑的文件
+```vim
+:e! 4.txt
+```
+
+-   命令行模式下输入`:f` 显示正在编辑的文件名
+```vim
+:f
+```
+
+-   命令行模式下输入`:f new.txt`，改变正在编辑的文件名字为 new.txt
+```vim
+:f new.txt
+```
+
+### 多个标签
+
+>与其他编辑器一样，也可以在Vim中打开多个标签
+
+<table>
+    <tr>
+        <td>编号</td>
+        <td>命令</td>
+        <td>描述</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>:tabnew</td>
+        <td>打开新标签页</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>:tabnew &lt;file&gt;</td>
+        <td>在标签中打开新文件</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>:tabclose</td>
+        <td>关闭当前标签</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>:tabnext</td>
+        <td>移至下一个标签</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>:tabprevious</td>
+        <td>移至上一个标签</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>:tabfirst</td>
+        <td>移至第一个标签</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>:tablast</td>
+        <td>移至最后一个标签</td>
+    </tr>
+</table>
+
+### 多个窗口
+
+在Vim中，可以使用以下命令创建新窗口
+
+
 
