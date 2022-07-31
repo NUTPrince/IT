@@ -154,6 +154,22 @@
           "lastUpdated": 1659263839551
         }
       }
+    },
+    "file1": {
+      "file1": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1659273946757
+        }
+      }
+    },
+    "filename": {
+      "filename": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1659274245190
+        }
+      }
     }
   }
 }
