@@ -271,3 +271,29 @@ Ctrl + r
 
 ## Vim搜索
 
+### 搜索相关设置
+
+要执行增量搜索，请执行以下命令 
+
+```shell
+:set incsearch
+```
+
+要突出显示搜索执行以下命令 
+
+```shell
+:set hlsearch
+```
+
+此外，若要禁用增量的搜索设置，执行以下命令 
+
+```shell
+:set noincsearch
+```
+
+禁用突出显示的搜索设置，执行以下命令 
+
+```shell
+:set nohlsearch
+```
+
