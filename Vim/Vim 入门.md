@@ -297,3 +297,94 @@ Ctrl + r
 :set nohlsearch
 ```
 
+### 在当前文件中搜索
+
+#### 向前搜索
+
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th>命令</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><code>/&lt;expression&gt;</code></td>
+<td>向前搜索表达式</td>
+</tr>
+<tr>
+<td>2</td>
+<td><code>n</code></td>
+<td>查找下一个事件。这是相同的，然后找到文本</td>
+</tr>
+<tr>
+<td>3</td>
+<td><code>N</code></td>
+<td>查找上一次出现。 这与之前的查找相同</td>
+</tr>
+<tr>
+<td>4</td>
+<td><code>//</code></td>
+<td>重复之前的前向搜索</td>
+</tr>
+</tbody>
+</table>
+
+#### 向后搜索
+
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th>命令</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><code>?&lt;expression&gt;</code></td>
+<td>向后搜索表达式</td>
+</tr>
+<tr>
+<td>2</td>
+<td><code>n</code></td>
+<td>查找上一次出现。 这是相同的，并找到之前的文本内容</td>
+</tr>
+<tr>
+<td>3</td>
+<td><code>N</code></td>
+<td>查找下一个事件。这和下一个查找相同</td>
+</tr>
+<tr>
+<td>4</td>
+<td><code>??</code></td>
+<td>重复上一个向后搜索</td>
+</tr>
+</tbody>
+</table>
+
+#### 在光标下搜索
+
+将光标放在任何单词下并执行以下命令以执行搜索操作
+
+| **编号** | **命令** | **描述** |
+|:---:|:---:|:---:|
+| 1 | \* | 搜索下一个当前单词 |
+| 2 | \# | 搜索以前出现的当前单词 |
+
+
+### 在多个文件中搜索
+
+使用 `vimgrep` 命令，可以在多个文件中搜索 `<expression>` 。 
+
+例如，下面的命令在所有文本文件中搜索字符串 - `Python`：
+```shell
+:vimgrep Python *.txt
+```
+
+请注意，要转到下一个和上一个匹配项，必须使用以下命令
+
