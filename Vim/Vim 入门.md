@@ -1125,6 +1125,11 @@ Ctrl + w Ctrl + w
 :diffput
 ```
 
+# Vim官方文档
+
+可以从以下网站访问Vim的官方文档
+-   [https://www.vim.org/](https://www.vim.org/)
+
 # 彩蛋
 
 ## 创建加密文档
