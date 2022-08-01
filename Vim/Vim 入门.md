@@ -828,7 +828,7 @@ q--开始录制，a--此次宏录制名称（任意）
 可以通过执行以下命令来查看这些操作。
 
 ```shell
-:registers
+:reg
 ```
 
 #### 停止录制
@@ -856,7 +856,8 @@ q
 >存放的是vim内的复制黏贴的内容，系统剪切板的内容，总的来说，寄存器就是一个可自定义的多重剪切板。
 
 **vim共有9类寄存器：**
-<ol><li><strong>无名（unnamed）寄存器：<code>""</code>，缓存最后一次操作内容；</strong></li><li><strong>数字（numbered）寄存器：<code>"0 - "9</code>，缓存最近操作内容，复制与删除有别；</strong></li><li><strong>行内删除（small delete）寄存器：<code>"-</code>，缓存行内删除内容；</strong></li><li><strong>具名（named）寄存器：<code>"a - "z</code>或<code>"A - "Z</code>，指定时可用；</strong></li><li><strong>只读（read-only）寄存器：<code>":, "., "%, "#</code>，分别缓存最近命令、最近插入文本、当前文件名、当前交替文件名；</strong></li><li><strong>表达式（expression）寄存器：<code>"=</code>，只读，用于执行表达式命令；</strong></li><li><strong>选择及拖拽（selection and drop）寄存器：<code>"*, "+, "~</code>，存取GUI选择文本，可用于与外部应用交互，使用前提为系统剪切板（clipboard）可用；</strong></li><li><strong>黑洞（black hole）寄存器：<code>"_</code>，不缓存操作内容（干净删除）；</strong></li><li><strong>模式寄存器（last search pattern）：<code>"/</code>，缓存最近的搜索模式。</strong></li></ol>
+
+
 
 
 
