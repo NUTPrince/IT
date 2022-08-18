@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vim/Vim 入门.md",
+            "file": "linux/04 用户及文件权限管理.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim/Vim 入门.md"
+                "file": "linux/04 用户及文件权限管理.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "0f4725827345e0b2",
   "lastOpenFiles": [
-    "Git/03. Git 分支管理.md",
-    "Git/02.Git 基础操作.md",
-    "Git/01.Git 简介.md",
-    "Git/附录/Homebrew.md",
     "Vim/Vim 入门.md",
-    "linux/03 目录及文件操作.md",
-    "README.md",
+    "Java/java.md",
     "linux/04 用户及文件权限管理.md",
+    "linux/03 目录及文件操作.md",
     "linux/02 基本概念.md",
-    "linux/附录/linux less 详解.md"
+    "linux/01 简介.md",
+    "linux/附录/linux less 详解.md",
+    "Git/01.Git 简介.md",
+    "linux/附录/硬链接，软链接，inode.md",
+    "Git/附录/Git 命令 快捷查询.md"
   ]
 }
