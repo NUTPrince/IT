@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6fb8dc8-a4f2-4f59-9401-46595ce86f17" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.obsidian/workspace" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/workspace" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,10 +48,11 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="应用程序.demo2">
     <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo1" />
       <module name="java_study" />
@@ -58,8 +60,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo2" />
+      <module name="java_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.demo2" />
         <item itemvalue="应用程序.demo1" />
       </list>
     </recent_temporary>
@@ -73,6 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1660837345327</updated>
       <workItem from="1660837347804" duration="1391000" />
+      <workItem from="1660924189417" duration="273000" />
+      <workItem from="1660924551133" duration="928000" />
     </task>
     <servers />
   </component>
@@ -89,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
