@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6fb8dc8-a4f2-4f59-9401-46595ce86f17" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.obsidian/workspace" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YHSJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study/demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study/demo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +49,21 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.demo2">
+  <component name="RunManager" selected="应用程序.demo3">
+    <configuration name="YHSJ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YHSJ" />
+      <module name="java_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo1" />
       <module name="java_study" />
@@ -67,8 +78,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo3" />
+      <module name="java_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="java_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.demo3" />
+        <item itemvalue="应用程序.YHSJ" />
+        <item itemvalue="应用程序.test" />
         <item itemvalue="应用程序.demo2" />
         <item itemvalue="应用程序.demo1" />
       </list>
@@ -84,7 +112,7 @@
       <updated>1660837345327</updated>
       <workItem from="1660837347804" duration="1391000" />
       <workItem from="1660924189417" duration="273000" />
-      <workItem from="1660924551133" duration="928000" />
+      <workItem from="1660924551133" duration="6443000" />
     </task>
     <servers />
   </component>
@@ -101,6 +129,22 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/YHSJ.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/demo3.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
