@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6fb8dc8-a4f2-4f59-9401-46595ce86f17" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/YHSJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.obsidian/workspace" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/workspace" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study/demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study/demo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study/demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study/demo3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +109,7 @@
       <updated>1660837345327</updated>
       <workItem from="1660837347804" duration="1391000" />
       <workItem from="1660924189417" duration="273000" />
-      <workItem from="1660924551133" duration="6443000" />
+      <workItem from="1660924551133" duration="6781000" />
     </task>
     <servers />
   </component>

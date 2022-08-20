@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux/04 用户及文件权限管理.md",
+            "file": "Java/java入门.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/04 用户及文件权限管理.md"
+                "file": "Java/java入门.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "0f4725827345e0b2",
   "lastOpenFiles": [
-    "Java/java入门.md",
     "linux/04 用户及文件权限管理.md",
+    "Java/java入门.md",
     "Vim/Vim 入门.md",
     "linux/03 目录及文件操作.md",
     "linux/02 基本概念.md",
