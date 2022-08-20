@@ -30,6 +30,6 @@ public class demo3 {
     }
 
     public static void main(String[] args) {
-        yh(15);
+        yh(5);
     }
 }
