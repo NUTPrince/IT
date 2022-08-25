@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux/05 环境变量.md",
+            "file": "linux/06 文件操作管理.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/05 环境变量.md"
+                "file": "linux/06 文件操作管理.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   "active": "cfe61f1f42c7b903",
   "lastOpenFiles": [
     "Java/java入门.md",
+    "linux/06 文件操作管理.md",
     "linux/05 环境变量.md",
+    "linux/07 压缩与解压文件.md",
     "Excalidraw/Drawing 2022-08-23 23.52.41.excalidraw.md",
     "[.md",
     "Excalidraw/Drawing 2022-08-21 12.00.22.excalidraw.md",
     "linux/00 图片/5-1.png",
     "Vim/Vim 入门.md",
-    "linux/04 用户及文件权限管理.md",
-    "linux/03 目录及文件操作.md",
-    "linux/02 基本概念.md"
+    "linux/04 用户及文件权限管理.md"
   ]
 }
