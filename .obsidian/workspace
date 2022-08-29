@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux/07 压缩与解压文件.md",
+            "file": "linux/08 帮助命令.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/07 压缩与解压文件.md"
+                "file": "linux/08 帮助命令.md"
               }
             }
           }
@@ -145,10 +145,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cfe61f1f42c7b903",
+  "active": "ac550d79d774d2a1",
   "lastOpenFiles": [
-    "Java/java入门.md",
     "linux/07 压缩与解压文件.md",
+    "Java/java入门.md",
     "linux/06 文件操作管理.md",
     "Excalidraw/Drawing 2022-08-26 00.09.31.excalidraw.md",
     "linux/05 环境变量.md",
