@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux/08 帮助命令.md",
+            "file": "linux/09 任务计划.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/08 帮助命令.md"
+                "file": "linux/09 任务计划.md"
               }
             }
           }
@@ -145,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac550d79d774d2a1",
+  "active": "cfe61f1f42c7b903",
   "lastOpenFiles": [
-    "linux/07 压缩与解压文件.md",
+    "linux/08 帮助命令.md",
     "Java/java入门.md",
+    "linux/07 压缩与解压文件.md",
     "linux/06 文件操作管理.md",
     "Excalidraw/Drawing 2022-08-26 00.09.31.excalidraw.md",
     "linux/05 环境变量.md",
     "Excalidraw/Drawing 2022-08-23 23.52.41.excalidraw.md",
     "[.md",
     "Excalidraw/Drawing 2022-08-21 12.00.22.excalidraw.md",
-    "linux/00 图片/5-1.png",
-    "Vim/Vim 入门.md"
+    "linux/00 图片/5-1.png"
   ]
 }
