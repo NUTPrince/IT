@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux/12 正则表达式.md",
+            "file": "未命名.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/12 正则表达式.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "cfe61f1f42c7b903",
   "lastOpenFiles": [
+    "linux/12 正则表达式.md",
     "未命名.md",
     "linux/11 文本处理.md",
     "linux/10 命令执行顺序的控制.md",
@@ -155,7 +156,6 @@
     "linux/08 帮助命令.md",
     "linux/07 压缩与解压文件.md",
     "linux/06 文件操作管理.md",
-    "Excalidraw/Drawing 2022-08-26 00.09.31.excalidraw.md",
-    "linux/05 环境变量.md"
+    "Excalidraw/Drawing 2022-08-26 00.09.31.excalidraw.md"
   ]
 }
