@@ -1,5 +1,6 @@
 {
   "translucency": false,
   "interfaceFontFamily": "",
-  "monospaceFontFamily": "Menlo"
+  "monospaceFontFamily": "Menlo",
+  "baseFontSize": 15
 }
