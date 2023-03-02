@@ -1,5 +1,3 @@
-
-
 # 2.1 概述
 
 ## 2.1.1 Hadoop简介
@@ -89,13 +87,7 @@
 
 **Mac：**
 
-下载VMware：[https://customerconnect.vmware.com/cn/downloads/get-download?downloadGroup=FUS-PUBTP-2021H1](https://customerconnect.vmware.com/cn/downloads/get-download?downloadGroup=FUS-PUBTP-2021H1)
-
-系统镜像下载链接：[http://old-releases.ubuntu.com/releases/22.04/ubuntu-22.04-live-server-arm64.iso](http://old-releases.ubuntu.com/releases/22.04/ubuntu-22.04-live-server-arm64.iso)
-
-✅参考教程：[Mac M1芯片 安装vmware 和ubuntu 以及换源全过程](https://blog.csdn.net/nuomituansama/article/details/125909957)
-
-![key](https://github.githubassets.com/images/icons/emoji/unicode/1f511.png?v8.png)：教程以Windows版为主，Mac版后续操作可能略有不同，自行百度
+[[Mac 安装hadoop(超详细)]]
 
 ### 2.3.2 实验内容
 
@@ -239,7 +231,7 @@ ssh localhost
 
 >将该文件夹解压后，可以放置到自己喜欢的位置，如`/data/hadoop`文件夹下，注意，文件夹的用户和组必须都为hadoop。
 
-##### 1.安装Hadoop
+π##### 1.安装Hadoop
 
 >将`hadoop-3.3.1.tar.gz`解压缩到`/opt`目录下，命令如下：
 

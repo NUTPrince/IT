@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6fb8dc8-a4f2-4f59-9401-46595ce86f17" name="变更" comment="" />
+    <list default="true" id="a6fb8dc8-a4f2-4f59-9401-46595ce86f17" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Bigdata/01 大数据概述.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bigdata/01 大数据概述.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bigdata/02 大数据处理架构Hadoop.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bigdata/02 大数据处理架构Hadoop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/Numpy/Numpy入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/Numpy/Numpy入门.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +111,7 @@
       <workItem from="1660924189417" duration="273000" />
       <workItem from="1660924551133" duration="7351000" />
       <workItem from="1676257305058" duration="19000" />
+      <workItem from="1676889934207" duration="12000" />
     </task>
     <servers />
   </component>
